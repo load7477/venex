@@ -1,3 +1,3 @@
 # venex
 
-GPL 2.0, 3.0 라이센스를 따라주세요
+expressJs Pushbullet 출처 : https://github.com/coder-in-daegu/ExpressJS-Pushbullet-Message-Pull-KR-KakaoBank-API
