@@ -1,2 +1,3 @@
 # venex
-vending machine
+
+GPL 2.0, 3.0 라이센스를 따라주세요
